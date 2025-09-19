@@ -89,8 +89,7 @@ DIVIDE([Total Yield], CALCULATE([Total Yield], ALL(agriculture_data[Crop])))
 
 🔍 Insights
 [1] Rainfall Analysis
-
-https://github.com/Sofiatabassum/agriculture-bi-project/blob/main/Screenshot%20(20).png?raw=true
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/acb4e886-d998-4009-9acc-3693d39d2a1b" />
 
 
 Monsoon shows the highest rainfall, strongly impacting crop yield.
