@@ -98,6 +98,8 @@ Regions with low rainfall show reduced productivity.
 
 [2] Temperature Analysis
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ba599639-56fc-4122-bf00-d26d26603b5f" />
+
 Summer seasons have temperature spikes, reducing crop yield in certain crops.
 
 Crops like wheat perform best under moderate temperature.
