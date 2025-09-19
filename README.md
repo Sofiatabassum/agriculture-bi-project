@@ -106,11 +106,14 @@ Crops like wheat perform best under moderate temperature.
 
 [3] Humidity Analysis
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/95f7c2f6-e859-4caa-baf6-4e2c3c4cbf50" />
+
 Rice yield increases with higher humidity.
 
 Some dry crops perform poorly in humid conditions.
 
 [4] Yield Analysis
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b8c7921a-e33d-4ff9-a00c-b60c3081bb25" />
 
 Kharif season shows maximum yield due to optimal rainfall & humidity.
 
